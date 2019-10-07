@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="umons.money.MoneyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-10-02T14:46:36" hostname="NOFFABEL-T580" time="0.012">
+  <properties/>
+  <testcase name="testAdd_int_String" classname="umons.money.MoneyTest" time="0.01"/>
+  <testcase name="testAdd_Money" classname="umons.money.MoneyTest" time="0.0"/>
+  <testcase name="testAmount" classname="umons.money.MoneyTest" time="0.0"/>
+  <testcase name="testCurrency" classname="umons.money.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[add
+add
+amount
+currency
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
